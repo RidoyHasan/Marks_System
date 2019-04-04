@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "169421918050",
+    "firebase_url": "https://markssystem-a8b7e.firebaseio.com",
+    "project_id": "markssystem-a8b7e",
+    "storage_bucket": "markssystem-a8b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:169421918050:android:02dd1e373ec8c2d8",
+        "android_client_info": {
+          "package_name": "com.example.tahsimhasanhridoy.marks_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "169421918050-v8tvqv1qbku4u0p76oc1ohi3irak3sja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tahsimhasanhridoy.marks_system",
+            "certificate_hash": "0c335b35c8c4df71b02a1115a1b94cc9e2a9a697"
+          }
+        },
+        {
+          "client_id": "169421918050-jpvulna3rm69fhoc8ioi3tfbb06u12sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5EiIwDGd8D09WBU7QeBVPC3Zl-jlNIEE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "169421918050-jpvulna3rm69fhoc8ioi3tfbb06u12sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
